@@ -6,7 +6,7 @@
 **GitHub Repository Scraper** is a Python-based tool that helps you search for GitHub repositories based on specific criteria, such as programming language, star count, and more. It uses the GitHub API to fetch data and presents it in a user-friendly terminal interface, enhanced by the `rich` library for better visuals.
 
 
-## Features
+## ✨ Features
 - **Search GitHub Repositories**: Find repositories by entering a keyword or topic (e.g., "AI").
 - **Filter Results**: Narrow down results by programming language, star count, or forks.
 - **Save Results**: Save the search results to files in multiple formats:
@@ -16,8 +16,18 @@
   - Excel
 - **Enhanced Visuals**: Enjoy clear progress bars, tables, and color-coded outputs in the terminal.
 
+## 📚 Table of Contents
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Examples](#-examples)
+- [Requirements](#-requirements)
+- [Contributing](#-contributing)
+- [Future Enhancements](#-future-enhancements)
+- [License](#-license)
 
-## Installation
+
+## 🛠 Installation
 ### Step 1: Clone the Repository
 This downloads the project files to your local computer.
 
@@ -67,7 +77,7 @@ The script uses the GitHub API, which requires a **Personal Access Token** for a
 ---
 
 
-## Usage
+## 🎯 Usage
 Run the script in your terminal to start searching GitHub repository data.
 
 1. **Start the Script**:
@@ -87,6 +97,7 @@ Run the script in your terminal to start searching GitHub repository data.
    - **Sort by**: Stars
    - **Order**: Descending
    - **Save Format**: CSV
+
 
 ## Example Input
 
@@ -113,17 +124,25 @@ Here’s how the script looks in action:
 ![Terminal Demo](assets/demo.gif)
 
 
-## Requirements
+## 🔧 Requirements
 - **Python**: Version 3.7 or higher
 - **Dependencies**: Installed via `requirements.txt`
 
-## Contributing
+
+## 🤝 Contributing
 Feel free to submit issues or pull requests for new features or improvements.
 
-## Future Enhancements
+
+## 🌐 Connect with Us
+- **GitHub**: [srifsky](https://github.com/srifsky)
+- **Email**: [sharif.w@ids.ac.th](mailto:sharif.w@ids.ac.th)
+
+
+## 🌟 Future Enhancements
 - Add support for fetching repository contributors and their stats.
 - Include a web-based dashboard using Streamlit or Dash for interactive analysis.
 - Expand filtering options (e.g., by creation date, issue count).
 
-## License
+
+## 📜 License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License. See the `LICENSE` file for details.
