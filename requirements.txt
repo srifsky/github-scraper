@@ -1,0 +1,6 @@
+requests
+pandas
+tqdm
+rich
+python-dotenv
+openpyxl
