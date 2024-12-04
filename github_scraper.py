@@ -1,13 +1,13 @@
 import os
-import requests
-import pandas as pd
+import requests # type: ignore
+import pandas as pd # type: ignore
 import sqlite3
 import json
-from tqdm import tqdm
-from rich.console import Console
-from rich.table import Table
-from rich.progress import track
-from dotenv import load_dotenv
+from tqdm import tqdm # type: ignore
+from rich.console import Console # type: ignore
+from rich.table import Table # type: ignore
+from rich.progress import track # type: ignore
+from dotenv import load_dotenv # type: ignore
 
 # Load environment variables
 load_dotenv()
