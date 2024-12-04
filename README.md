@@ -133,15 +133,14 @@ Here’s how the script looks in action:
 Feel free to submit issues or pull requests for new features or improvements.
 
 
-## 🌐 Connect with Us
-- **GitHub**: [srifsky](https://github.com/srifsky)
-- **Email**: [sharif.w@ids.ac.th](mailto:sharif.w@ids.ac.th)
-
-
 ## 🌟 Future Enhancements
 - Add support for fetching repository contributors and their stats.
 - Include a web-based dashboard using Streamlit or Dash for interactive analysis.
 - Expand filtering options (e.g., by creation date, issue count).
+
+## 🌐 Connect with Us
+- **GitHub**: [srifsky](https://github.com/srifsky)
+- **Email**: [sharif.w@ids.ac.th](mailto:sharif.w@ids.ac.th)
 
 
 ## 📜 License
