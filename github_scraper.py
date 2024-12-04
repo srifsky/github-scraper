@@ -85,7 +85,7 @@ def display_summary(repositories):
     console.print(table)
 
 # Save results in selected formats
-def save_results(repos, filename="github_api_results"):
+def save_results(repos, filename="results"):
     """
     Save repository data in user-selected formats.
     """
